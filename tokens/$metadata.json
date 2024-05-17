@@ -1,0 +1,14 @@
+{
+  "tokenSetOrder": [
+    "System/Core",
+    "Components/Web",
+    "Components/App",
+    "Themes/Stellar",
+    "Themes/Delhaize",
+    "Themes/Albert",
+    "Themes/Albert specific",
+    "Themes/AB",
+    "Themes/Mega Image",
+    "Themes/Maxi"
+  ]
+}

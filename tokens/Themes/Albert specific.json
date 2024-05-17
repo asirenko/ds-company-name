@@ -1,0 +1,92 @@
+{
+  "color": {
+    "app-theme-item": {
+      "bg": {
+        "recent": {
+          "value": "{color.secondary.300}",
+          "type": "color"
+        },
+        "promo": {
+          "value": "{color.promo.400}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "recent": {
+          "value": "{color.neutral.600}",
+          "type": "color"
+        },
+        "promo": {
+          "value": "{color.neutral.600}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "recent": {
+          "value": "{color.neutral.600}",
+          "type": "color"
+        },
+        "promo": {
+          "value": "{color.neutral.600}",
+          "type": "color"
+        }
+      }
+    },
+    "app-promo-tag": {
+      "bg": {
+        "mass-promo": {
+          "value": "{color.promo.500}",
+          "type": "color"
+        },
+        "unbeatable-promo": {
+          "value": "{color.error.500}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "mass-promo": {
+          "value": "{color.neutral.700}",
+          "type": "color"
+        },
+        "unbeatable-promo": {
+          "value": "{color.neutral.100}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "mass-promo": {
+          "value": "{color.neutral.700}",
+          "type": "color"
+        }
+      }
+    },
+    "app-sticky-addtocart": {
+      "price": {
+        "bg-promo": {
+          "value": "{color.promo.500}",
+          "type": "color"
+        }
+      }
+    },
+    "st-app-productCard": {
+      "current-price": {
+        "bg": {
+          "promo": {
+            "value": "{color.promo.500}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "app-pdp-description": {
+      "current-price": {
+        "bg": {
+          "promo": {
+            "value": "{color.promo.500}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
